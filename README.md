@@ -1,4 +1,6 @@
 # al-folio
+# 参考手册：https://blog.gitcode.com/e5b41f7ba6e21401e0d1b0d934119bc4.html
+# https://alshedivat.github.io/al-folio/
 
 <div align="center">
 
